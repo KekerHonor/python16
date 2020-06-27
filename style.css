@@ -1,0 +1,27 @@
+body{
+    margin:0px
+}
+ul{
+    background-color: lightskyblue
+}
+li{
+    display: inline;
+    padding: 14px;
+}
+a{
+    text-decoration: none;
+}
+#div1{
+    background-color: lightskyblue;
+}
+#div2{
+    background-color: mediumaquamarine;
+}
+.btn{
+    margin: 16px;
+    padding: 8px;
+    border-radius: 3px;
+}
+/*bootstrap*/
+/*UIkit*/
+/*Ant Design*/
